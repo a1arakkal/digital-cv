@@ -4,23 +4,31 @@
 
 ### EDUCATION
 
-  -  **Doctor of Philosophy | 2023 (Anticipated)** <br>
-  University of Iowa, College of Public Health - Iowa City, IA <br>
+  -  **Doctor of Philosophy | 2023 (Anticipated)**<br>
+  University of Iowa, College of Public Health - Iowa City, IA<br>
   Epidemiology
   
   -  **Masters of Science | May 2019** <br>
   University of Colorado Denver, Anschutz Medical Campus,<br>
-  School of Public Health - Aurora, CO <br>
+  School of Public Health - Aurora, CO<br>
   Epidemiology <br>
-  _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)
+  _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)<br>
+  Cumulative GPA: 3.99/4.00
   
-  -  **Bachelor of Science | May 2014** <br>
-  Drake University - Des Moines, IA <br>
-  Biochemistry, Cell and Molecular Biology
+  -  **Bachelor of Science | May 2014**<br>
+  Drake University - Des Moines, IA<br>
+  Biochemistry, Cell and Molecular Biology<br>
+  Cumulative GPA: 3.98/4.00
   
-  -  **Bachelor of Arts | May 2014** <br>
-  Drake University - Des Moines, IA <br>
-  Chemistry
+  -  **Bachelor of Arts | May 2014**<br>
+  Drake University - Des Moines, IA<br>
+  Chemistry<br>
+  Cumulative GPA: 3.98/4.00
+  
+  -  **EMT Certification | July 2013**<br>
+  Mercy College of Health Sciences - Des Moines, IA<br>
+  State of Iowa EMT certification
+
 
 ### RESEARCH INTERESTS
   -  Epidemiologic Methods
