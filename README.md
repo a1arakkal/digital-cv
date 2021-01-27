@@ -65,7 +65,7 @@ Responsible for data management and data analysis of respiratory syncytial virus
   -  Beta Beta Beta Biological Honors Society (2014)
 
 ### PROGRAMMING SKILLS
-  -  SAS ([Certified Base Programmer for SAS 9])(https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804)
+  -  SAS ([Certified Base Programmer for SAS 9](https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804))
   -  R
   -  Python
   -  SPSS
