@@ -4,19 +4,19 @@
 
 ### EDUCATION
 
-  -  **Doctor of Philosophy - 2023 (Anticipated)** <br>
+  -  **Doctor of Philosophy | 2023 (Anticipated)** <br>
   University of Iowa, Colloge of Public Health - Iowa City, IA <br>
   Epidemiology
   
-  -  **Masters of Science - May 2019** <br>
+  -  **Masters of Science | May 2019** <br>
   University of Colorado Denver, Anschutz Medical Campus, School of Public Health - Aurora, CO <br>
   Epidemiology 
   
-  -  **Bachelor of Science - May 2014** <br>
+  -  **Bachelor of Science | May 2014** <br>
   Drake University - Des Moines, IA <br>
   Biochemistry, Cell and Molecular Biology
   
-  -  **Bachelor of Arts - May 2014** <br>
+  -  **Bachelor of Arts | May 2014** <br>
   Drake University - Des Moines, IA <br>
   Biochemistry, Cell and Molecular Biology
 
@@ -28,23 +28,23 @@
   
 ### WORK EXPERIENCE
 
-  -  **University of Iowa -  Iowa City, IA**<br>
+  -  **University of Iowa | Iowa City, IA**<br>
   _Graduate Research Assistant - Dr. Aaron Miller_	(July 2019 - Present)<br>
   Responsible for data management, data analysis, creating relational databases, and reports for Dr. Millers’s on-going diagnostic delay grant. Additional responsibilities include, co-authoring peer-review publications, submitting abstracts for presentation at local/national/international scientific meetings.
   
-  -  **University of Colorado Denver, Anschutz Medical Campus -  Aurora, CO**<br>
+  -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Professional Research Assistant - Dr. Dawn Comstock_	(April 2018 - May 2019)<br>
   Responsible for data management, data analysis, maintaining the online data collection system, participant enrollment, technical support, and reporting       requirements of Dr. Comstock’s on-going High School RIO<sup>TM</sup> surveillance study. Additional responsibilities include, co-authoring peer-review publications, submitting abstracts for presentation at local/national/international scientific meetings, and assisting with interpretation for collaborating researchers in order to communicate findings from the study.
 
-  -  **Children's Hospital Colorado Anschutz Medical Campus- Aurora, CO**<br>
+  -  **Children's Hospital Colorado Anschutz Medical Campus | Aurora, CO**<br>
 _Data Analyst - Dr. Eric Simoes_	(June 2018 - August 2018)<br>
 Responsible for data management and data analysis of respiratory syncytial virus (RSV) related hospital discharge data from the Colorado Hospital Association (CHA) to better understand the burden of disease in Colorado. Translated study’s survey questions from English into Indonesian and facilitated communications with collaborators on an ongoing RSV study conducted in Indonesia. 
 
-  -  **University of Colorado Denver, Anschutz Medical Campus -  Aurora, CO**<br>
+  -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Teaching Assistant - Applied Global Health Epidemiology_	(January 2018 - May 2018)<br>
   Responsible for organizing course material and maintaining the online course page. Graded weekly homework assignments and maintained attendance records. Taught and facilitated classroom discussions. Worked individually with students who needed additional assistance.
   
-  -  **Healthy Kids Colorado Survey - Aurora, CO**<br>
+  -  **Healthy Kids Colorado Survey | Aurora, CO**<br>
   _Student Assistant VI_ (August 2017 - March 2018)<br>
   Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys.  Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, QA reports, and analyzed datasets using SAS.
   
