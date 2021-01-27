@@ -19,7 +19,7 @@
   
   -  **Bachelor of Arts | May 2014** <br>
   Drake University - Des Moines, IA <br>
-  Biochemistry, Cell and Molecular Biology
+  Chemistry
 
 ### RESEARCH INTERESTS
   -  Epidemiologic Methods
