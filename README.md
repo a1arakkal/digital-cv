@@ -11,7 +11,8 @@
   -  **Masters of Science | May 2019** <br>
   University of Colorado Denver, Anschutz Medical Campus,<br>
   School of Public Health - Aurora, CO <br>
-  Epidemiology 
+  Epidemiology <br>
+  _Dissertation Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)
   
   -  **Bachelor of Science | May 2014** <br>
   Drake University - Des Moines, IA <br>
@@ -48,6 +49,30 @@ Responsible for data management and data analysis of respiratory syncytial virus
   -  **Healthy Kids Colorado Survey | Aurora, CO**<br>
   _Student Assistant VI_ (August 2017 - March 2018)<br>
   Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys.  Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, QA reports, and analyzed datasets using SAS.
+  
+  -  **HACH | Ames, IA**<br>
+  _Chemical Technician_ (April 2016 - November 2016)<br>
+  Responsible for preparation of laboratory standard solutions (When possible the standards are traceable to N.I.S.T.). Responsible for maintaining and updating all quality controls in area of responsibility. Performed test, collected data and consulted with technical support to help in solving emergent problems. Performed routine maintenance of lab instruments; calibrated equipment used by Operations, and updated records accordingly.
+  
+  -  **State Hygienic Lab | Ankeny, IA**<br>
+  _Clinical Analyst_ (June 2015- April 2016)<br>
+  Performed clinical laboratory testing of blood specimens collected from newborns in the state of Iowa, North Dakota and South Dakota. Performed high complexity patient and proficiency testing with accuracy, precision, and timeliness. Performed screening tests for a panel of disorders designated by the newborn screening program. Collected and analyzed demographic information. Performed quality control and quality assurance procedures in accordance with established policies. Recognized problems, documented issues, initiated corrective actions and adhered to quality standard procedures.
+  
+  - **Unity Point Health Iowa Methodist | Des Moines, IA**<br>
+  _Lab Support Technician_ (August 2014 – June 2015)<br>
+  Processed laboratory specimens for testing, evaluated specimen acceptability, entered patient and test information into the computer, and responded to requests for information from customers. This position contributed directly to patient care by accurately and timely processing specimens and dispersing information both in and outside the laboratory. An LST is also trained in Phlebotomy and those skills are utilized when needed.
+
+  - **Drake University | Des Moines, IA**<br>
+  _Research Assistant Molecular Biology Lab - Dr. Jerry Honts_ (August 2012- May 2014)<br>
+  Conducted research on protein expression and purification of a novel calcium-binding protein from Tetrahymena. Key responsibilities were focused on the engineering and expression of the Epk1 domain, a specific cell surface protein found in Tetrahymena. The research has resulted in a better understanding of the complex cell surface architecture found in Tetrahymena thermophila.
+
+  - **Drake University | Des Moines, IA**<br>
+  _Research Assistant Cellular Biology Lab - Dr. Jerry Honts_ (August 2012- May 2014)<br>
+  Conducted research on exploring the distribution and assembly of cytoskeletal proteins in Tetrahymena thermophila using green fluorescent protein (GFP)-tagged proteins. Key responsibilities were focused on the detection, isolation, extraction and purification of the key proteins found in Tetrahymena.
+
+  - **Drake University | Des Moines, IA**<br>
+  _Project Leader Organic Chemistry Lab - Dr. Gholam Mirafzal_ (October 2012- May 2014)<br>
+  Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. In order to be suitable for teaching labs, the experiment had to be safe, fast and reliable. The utilization of microwaves and activated charcoal produced significantly shorter reaction times for a diels-alder reaction (form 24 hours down to 20 minutes). A significant increase in percent yield was also noticed.
   
 ### PUBLICATIONS
   -  Miller A, **Arakkal A**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities associated with Tuberculosis: A population-based longitudinal study. Currently under review.
