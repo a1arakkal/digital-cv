@@ -92,6 +92,8 @@ Responsible for data management and data analysis of respiratory syncytial virus
   _Project Leader Organic Chemistry Lab - Dr. Gholam Mirafzal_ (October 2012- May 2014)<br>
   Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. Designed teaching lab-based experiments that were safe, fast, and reliable. Implemented the use of microwaves and activated charcoal to significantly reduce reaction time and increase perecent yeild for Diels-Alder reactions. 
   
+____________________________________________________________________________________________________________
+  
 ### PUBLICATIONS
   -  Miller A, **Arakkal A**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities associated with Tuberculosis: A population-based longitudinal study. Currently under review.
   -  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
