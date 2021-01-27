@@ -24,7 +24,7 @@
 ### RESEARCH INTERESTS
   -  Epidemiologic Methods
   -  Diagnostic Delays
-  -  Infectious Disease
+  -  Infectious Diseases
   -  Health Care Data Analytics
   
 ### WORK EXPERIENCE
