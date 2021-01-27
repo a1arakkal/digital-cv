@@ -35,6 +35,7 @@
   -  Diagnostic Delays
   -  Infectious Diseases
   -  Health Care Data Analytics
+  -  Administrative Data Analysis
   
 ### WORK EXPERIENCE
 
@@ -48,7 +49,7 @@
 
   -  **Children's Hospital Colorado Anschutz Medical Campus | Aurora, CO**<br>
 _Data Analyst - Dr. Eric Simoes_	(June 2018 - August 2018)<br>
-Responsible for data management and data analysis of respiratory syncytial virus (RSV) related hospital discharge data from the Colorado Hospital Association (CHA) to better understand the burden of disease in Colorado. Translated study’s survey questions from English into Indonesian and facilitated communications with collaborators on an ongoing RSV study conducted in Indonesia. 
+Responsible for data management and data analysis of respiratory syncytial virus (RSV) related hospital discharge data from the Colorado Hospital Association to better understand the burden of disease in Colorado. Translated study’s survey questions from English into Indonesian and facilitated communications with collaborators on an ongoing RSV study conducted in Indonesia. 
 
   -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Teaching Assistant - Applied Global Health Epidemiology_	(January 2018 - May 2018)<br>
