@@ -1,4 +1,4 @@
-## Alan Arakkal
+## Curriculum Vitae
 
 [Email](alan.arakkal@gmail.com) | [GitHub](https://github.com/a1arakkal) 
 
