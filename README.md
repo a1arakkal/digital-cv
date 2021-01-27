@@ -1,6 +1,6 @@
 ## _CURRICULUM VITAE_
 
-[Email](mailto:alan.arakkal@gmail.com) | [GitHub](https://github.com/a1arakkal) 
+Email: [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com) | [GitHub](https://github.com/a1arakkal) 
 
 ### EDUCATION
 
