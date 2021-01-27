@@ -21,7 +21,7 @@
   Drake University - Des Moines, IA <br>
   Biochemistry, Cell and Molecular Biology
 
-### RESEARCH INTEREST
+### RESEARCH INTERESTS
   -  Epidemiologic Methods
   -  Diagnostic Delays
   -  Infectious Disease
