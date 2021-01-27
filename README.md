@@ -1,6 +1,6 @@
 <h1 align="center"><i>CURRICULUM VITAE</i></h1>
 ___________________________________________________________________________________________________
-<center>📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)  |  📞 : [(720)-338-6143](tel:7203381643)  | [LinkedIn](https://www.linkedin.com/in/alan-arakkal-277025a0/)  | [GitHub](https://github.com/a1arakkal) </center>
+<center> 📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)  |  📞 : [(720)-338-6143](tel:7203381643)  | [LinkedIn](https://www.linkedin.com/in/alan-arakkal-277025a0/)  | [GitHub](https://github.com/a1arakkal) </center>
 
 ### EDUCATION
 
