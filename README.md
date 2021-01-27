@@ -1,4 +1,4 @@
-## Curriculum Vitae
+## _CURRICULUM VITAE_
 
 [Email](mailto:alan.arakkal@gmail.com) | [GitHub](https://github.com/a1arakkal) 
 
