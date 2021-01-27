@@ -31,10 +31,6 @@ ________________________________________________________________________________
   Chemistry<br>
   Cumulative GPA: 3.98/4.00
   
-  -  **EMT Certification | July 2013**<br>
-  Mercy College of Health Sciences - Des Moines, IA<br>
-  State of Iowa EMT certification
-  
 ____________________________________________________________________________________________________________
 
 ### RESEARCH INTERESTS
