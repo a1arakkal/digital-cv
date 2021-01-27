@@ -1,6 +1,6 @@
 ## _CURRICULUM VITAE_
 
-Email: [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)|Phone Number: (720)-338-6143|[GitHub](https://github.com/a1arakkal) 
+📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)| 📞 : [(720)-338-6143](tel:7203381643)|[GitHub](https://github.com/a1arakkal) 
 
 ### EDUCATION
 
