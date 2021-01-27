@@ -48,19 +48,19 @@ Responsible for data management and data analysis of respiratory syncytial virus
   
   -  **Healthy Kids Colorado Survey | Aurora, CO**<br>
   _Student Assistant VI_ (August 2017 - March 2018)<br>
-  Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys.  Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, QA reports, and analyzed datasets using SAS.
+  Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys. Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, QA reports, and analyzed datasets using SAS.
   
   -  **HACH | Ames, IA**<br>
   _Chemical Technician_ (April 2016 - November 2016)<br>
-  Responsible for preparation of laboratory standard solutions (When possible the standards are traceable to N.I.S.T.). Responsible for maintaining and updating all quality controls in area of responsibility. Performed test, collected data and consulted with technical support to help in solving emergent problems. Performed routine maintenance of lab instruments; calibrated equipment used by Operations, and updated records accordingly.
+  Responsible for preparation of laboratory standard solutions (When possible the standards are traceable to N.I.S.T.). Responsible for maintaining and updating all quality controls in area of responsibility. Performed test, collected data and consulted with technical support to help in solving emergent problems. Performed routine maintenance of lab instruments; calibrated equipment used by operations, and updated records accordingly.
   
   -  **State Hygienic Lab | Ankeny, IA**<br>
   _Clinical Analyst_ (June 2015- April 2016)<br>
-  Performed clinical laboratory testing of blood specimens collected from newborns in the state of Iowa, North Dakota and South Dakota. Performed high complexity patient and proficiency testing with accuracy, precision, and timeliness. Performed screening tests for a panel of disorders designated by the newborn screening program. Collected and analyzed demographic information. Performed quality control and quality assurance procedures in accordance with established policies. Recognized problems, documented issues, initiated corrective actions and adhered to quality standard procedures.
+  Performed clinical laboratory testing of blood specimens collected from newborns in the state of Iowa, North Dakota and South Dakota. Performed high complexity patient and proficiency testing with accuracy, precision, and timeliness. Performed screening tests for a panel of disorders designated by the newborn screening program. Collected and analyzed demographic information. Performed quality control and quality assurance procedures in accordance with established policies. Recognized problems, documented issues, initiated corrective actions, and adhered to quality standard procedures.
   
   - **Unity Point Health Iowa Methodist | Des Moines, IA**<br>
   _Lab Support Technician_ (August 2014 – June 2015)<br>
-  Processed laboratory specimens for testing, evaluated specimen acceptability, entered patient and test information into the computer, and responded to requests for information from customers. This position contributed directly to patient care by accurately and timely processing specimens and dispersing information both in and outside the laboratory. An LST is also trained in Phlebotomy and those skills are utilized when needed.
+  Processed laboratory specimens for testing, evaluated specimen acceptability, patient and test information data entry, and responded to requests for information from physicians and patients. This position contributed directly to patient care through the accurate and timely processing of specimens and dispersing information both in and outside the laboratory. Lab support technicians were also trained in Phlebotomy and those skills were utilized when needed.
 
   - **Drake University | Des Moines, IA**<br>
   _Research Assistant Molecular Biology Lab - Dr. Jerry Honts_ (August 2012- May 2014)<br>
