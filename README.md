@@ -57,3 +57,16 @@ Responsible for data management and data analysis of respiratory syncytial virus
   -  Hammer E, Brooks MA, Hetzel S, **Arakkal A**, Comstock RD. Epidemiology of Injuries Sustained in Boys’ High School Contact and Collision Sports, 2008-2009 Through 2012-2013. Orthop J Sport Med. 2020;8(2):2325967120903699.
   -  Kerr ZY, Chandran A, Nedimyer AK, **Arakkal A**, Pierpoint LA, Zuckerman SL. Concussion incidence and trends in 20 high school sports. Pediatrics. 2019;144(5).
   -  Oliver GD, Saper MG, Drogosz M, Plummer H, **Arakkal A**, et al. Epidemiology of shoulder and elbow injuries among US high school softball players, 2005-2006 through 2016-2017. Orthop J Sport Med. 2019;7(9):2325967119867428.
+  
+### HONORS AND AWARDS 
+  -  Phi Beta Delta Honor Society (2020)
+  -  Department of Epidemiology’s Scholarship in Infectious Diseases Epidemiology (2019)
+  -  Delta Omega National Honorary Society in Public Health  - Student Memeber (2019)
+  -  Beta Beta Beta Biological Honors Society (2014)
+
+### PROGRAMMING SKILLS
+  -  SAS ([Certified Base Programmer for SAS 9])(https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804)
+  -  R
+  -  Python
+  -  SPSS
+
