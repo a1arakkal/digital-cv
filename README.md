@@ -72,7 +72,7 @@ Responsible for data management and data analysis of respiratory syncytial virus
 
   - **Drake University | Des Moines, IA**<br>
   _Project Leader Organic Chemistry Lab - Dr. Gholam Mirafzal_ (October 2012- May 2014)<br>
-  Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. Designed teaching lab-based experiments that were safe, fast, and reliable. Implemented the use of microwaves and activated charcoal to significantly reduce reaction times and increase perecent yeild for Diels-Alder reactions. 
+  Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. Designed teaching lab-based experiments that were safe, fast, and reliable. Implemented the use of microwaves and activated charcoal to significantly reduce reaction time and increase perecent yeild for Diels-Alder reactions. 
   
 ### PUBLICATIONS
   -  Miller A, **Arakkal A**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities associated with Tuberculosis: A population-based longitudinal study. Currently under review.
