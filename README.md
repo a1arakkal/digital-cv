@@ -5,11 +5,12 @@
 ### EDUCATION
 
   -  **Doctor of Philosophy | 2023 (Anticipated)** <br>
-  University of Iowa, Colloge of Public Health - Iowa City, IA <br>
+  University of Iowa, College of Public Health - Iowa City, IA <br>
   Epidemiology
   
   -  **Masters of Science | May 2019** <br>
-  University of Colorado Denver, Anschutz Medical Campus, School of Public Health - Aurora, CO <br>
+  University of Colorado Denver, Anschutz Medical Campus,<br>
+  School of Public Health - Aurora, CO <br>
   Epidemiology 
   
   -  **Bachelor of Science | May 2014** <br>
