@@ -12,7 +12,7 @@
   University of Colorado Denver, Anschutz Medical Campus,<br>
   School of Public Health - Aurora, CO <br>
   Epidemiology <br>
-  _Dissertation Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)
+  _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)
   
   -  **Bachelor of Science | May 2014** <br>
   Drake University - Des Moines, IA <br>
