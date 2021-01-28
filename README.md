@@ -2,8 +2,10 @@
 
 ____________________________________________________________________________________________________________
 
-📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)    |    📞 : [(720)-338-6143](tel:7203386143) <br>
-[LinkedIn](https://www.linkedin.com/in/alan-arakkal-277025a0/)    |    [GitHub](https://github.com/a1arakkal)
+📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)<br>
+📞 : [(720)-338-6143](tel:7203386143)<br>
+[LinkedIn](https://www.linkedin.com/in/alan-arakkal-277025a0/)<br>
+[GitHub](https://github.com/a1arakkal)
 
 ____________________________________________________________________________________________________________
 
