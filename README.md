@@ -1,7 +1,7 @@
 <h1 align="center">CURRICULUM VITAE</h1>
 
 ____________________________________________________________________________________________________________
-
+a
 -------------------------------------------------------|----------------------------------------------------
 📧 : [alan.arakkal@gmail.com](mailto:alan.arakkal@gmail.com)  |  📞 : [(720)-338-6143](tel:7203386143)
 [LinkedIn](https://www.linkedin.com/in/alan-arakkal-277025a0/)  | [GitHub](https://github.com/a1arakkal) 
