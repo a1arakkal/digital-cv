@@ -22,7 +22,7 @@ ________________________________________________________________________________
   School of Public Health - Aurora, CO<br>
   Epidemiology <br>
   _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)<br>
-  Cumulative GPA: 3.99/4.00
+  Cumulative GPA: 3.985/4.00
   
   -  **Bachelor of Science | May 2014**<br>
   Drake University - Des Moines, IA<br>
