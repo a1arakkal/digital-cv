@@ -95,7 +95,7 @@ Responsible for data management and data analysis of respiratory syncytial virus
 ____________________________________________________________________________________________________________
   
 ### PUBLICATIONS
-  -  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: a population-based longitudinal study. BMJ Open 2021;11:e045605. doi:10.1136/bmjopen-2020-045605
+  -  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
   -  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
   -  Chandran A, Kerr ZY, Roby PR, Nedimyer A, **Arakkal A**, et al. Concussion Symptom Characteristics and Resolution in 20 United States High School Sports, 2013/14-2017/18 Academic Years. Neurosurgery. 2020;87(3):573-583. doi:10.1093/neuros/nyaa091
   -  Comstock RD, **Arakkal AT**, Pierpoint LA, Fields SK. Are high school girls’ lacrosse players at increased risk of concussion because they are not allowed to wear the same helmet boys’ lacrosse players are required to wear? Inj Epidemiol. 2020;7(1):18. doi:10.1186/s40621-020-00242-5
