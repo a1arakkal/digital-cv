@@ -39,6 +39,7 @@ ________________________________________________________________________________
 ### RESEARCH INTERESTS
 
   -  Epidemiologic Methods
+  -  Computational Epidemiology
   -  Diagnostic Delays
   -  Infectious Diseases
   -  Health Care Data Analytics
