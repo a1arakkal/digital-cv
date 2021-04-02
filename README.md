@@ -38,13 +38,11 @@ ________________________________________________________________________________
 
 ### RESEARCH INTERESTS
 
-  -  Epidemiologic Methods
   -  Computational Epidemiology
   -  Diagnostic Delays
   -  Infectious Diseases
   -  Health Care Data Analytics
-  -  Administrative Data Analysis
-  
+  -  Administrative Data Analysis  
 ____________________________________________________________________________________________________________
   
 ### WORK EXPERIENCE
@@ -55,11 +53,11 @@ ________________________________________________________________________________
   
   -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Professional Research Assistant - Dr. Dawn Comstock_	(April 2018 - May 2019)<br>
-  Responsible for data management, data analysis, maintaining the online data collection system, participant enrollment, technical support, and reporting       requirements of Dr. Comstock’s on-going High School RIO<sup>TM</sup> surveillance study. Additional responsibilities include, co-authoring peer-review publications, submitting abstracts for presentation at local/national/international scientific meetings, and assisting with interpretation for collaborating researchers in order to communicate findings from the study.
+  Responsible for data management, data analysis, maintaining an online data collection system, participant enrollment, technical support, and reporting       requirements of Dr. Comstock’s High School RIO<sup>TM</sup> surveillance study. Additional responsibilities include, co-authoring peer-review publications, submitting abstracts for presentations at local/national/international scientific meetings, and assisting with interpretation for collaborating researchers in order to communicate study findings.
 
   -  **Children's Hospital Colorado Anschutz Medical Campus | Aurora, CO**<br>
 _Data Analyst - Dr. Eric Simoes_	(June 2018 - August 2018)<br>
-Responsible for data management and data analysis of respiratory syncytial virus (RSV) related hospital discharge data from the Colorado Hospital Association to better understand the burden of disease in Colorado. Translated study’s survey questions from English into Indonesian and facilitated communications with collaborators on an ongoing RSV study conducted in Indonesia. 
+  Responsible for data management and data analysis of respiratory syncytial virus (RSV) related hospital discharge data from the Colorado Hospital Association to better understand the burden of disease in Colorado. Translated study’s survey questions from English into Indonesian and facilitated communications with collaborators on an ongoing RSV study conducted in Indonesia. 
 
   -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Teaching Assistant - Applied Global Health Epidemiology_	(January 2018 - May 2018)<br>
@@ -67,19 +65,19 @@ Responsible for data management and data analysis of respiratory syncytial virus
   
   -  **Healthy Kids Colorado Survey | Aurora, CO**<br>
   _Student Assistant VI_ (August 2017 - March 2018)<br>
-  Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys. Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, QA reports, and analyzed datasets using SAS.
+  Assisted with conducting survey operations for an on-going statewide project related to health, behavior, safety, and marijuana surveys. Responsible for preparing and tracking survey materials, obtaining survey data, data entry, data cleaning, and other survey operations activities as assigned. Managed large datasets/databases, created QA reports, and analyzed datasets using SAS.
   
   -  **HACH | Ames, IA**<br>
   _Chemical Technician_ (April 2016 - November 2016)<br>
-  Responsible for preparation of laboratory standard solutions (When possible the standards are traceable to N.I.S.T.). Responsible for maintaining and updating all quality controls in area of responsibility. Performed test, collected data and consulted with technical support to help in solving emergent problems. Performed routine maintenance of lab instruments; calibrated equipment used by operations, and updated records accordingly.
+  Responsible for preparation of laboratory standard solutions (When possible the standards are traceable to N.I.S.T.). Responsible for maintaining and updating all quality controls in area of responsibility. Performed test, collected data and consulted with technical support to help in solving emergent problems. Performed routine maintenance of lab instruments, calibrated equipment used by operations, and updated records accordingly.
   
   -  **State Hygienic Lab | Ankeny, IA**<br>
   _Clinical Analyst_ (June 2015- April 2016)<br>
-  Performed clinical laboratory testing of blood specimens collected from newborns in the state of Iowa, North Dakota and South Dakota. Performed high complexity patient and proficiency testing with accuracy, precision, and timeliness. Performed screening tests for a panel of disorders designated by the newborn screening program. Collected and analyzed demographic information. Performed quality control and quality assurance procedures in accordance with established policies. Recognized problems, documented issues, initiated corrective actions, and adhered to quality standard procedures.
+  Performed clinical laboratory testing of blood specimens collected from newborns in the state of Iowa, North Dakota, and South Dakota. Performed high complexity patient and proficiency testing with accuracy, precision, and timeliness. Performed screening tests for a panel of disorders designated by the newborn screening program. Collected and analyzed demographic information. Performed quality control and quality assurance procedures in accordance with established policies. Recognized problems, documented issues, initiated corrective actions, and adhered to quality standard procedures.
   
   - **Unity Point Health Iowa Methodist | Des Moines, IA**<br>
   _Lab Support Technician_ (August 2014 – June 2015)<br>
-  Processed laboratory specimens for testing, evaluated specimen acceptability, patient and test information data entry, and responded to requests for information from physicians and patients. This position contributed directly to patient care through the accurate and timely processing of specimens and dispersing information both in and outside the laboratory. Lab support technicians were also trained in Phlebotomy and those skills were utilized when needed.
+  Processed laboratory specimens for testing, evaluated specimen acceptability, patient and test information data entry, and responded to requests for information from physicians and patients. This position contributed directly to patient care through the accurate and timely processing of specimens and dispersing information both in and outside the laboratory. Lab support technicians were also trained in phlebotomy and those skills were utilized when needed.
 
   - **Drake University | Des Moines, IA**<br>
   _Research Assistant Molecular Biology Lab - Dr. Jerry Honts_ (August 2012- May 2014)<br>
@@ -87,7 +85,7 @@ Responsible for data management and data analysis of respiratory syncytial virus
 
   - **Drake University | Des Moines, IA**<br>
   _Research Assistant Cellular Biology Lab - Dr. Jerry Honts_ (August 2012- May 2014)<br>
-  Conducted research on exploring the distribution and assembly of cytoskeletal proteins in Tetrahymena thermophila using green fluorescent protein (GFP)-tagged proteins. Key responsibilities were focused on the detection, isolation, extraction and purification of the key proteins found in Tetrahymena.
+  Conducted research on exploring the distribution and assembly of cytoskeletal proteins in Tetrahymena thermophila using green fluorescent protein (GFP)-tagged proteins. Key responsibilities were focused on the detection, isolation, extraction, and purification of the key proteins found in Tetrahymena.
 
   - **Drake University | Des Moines, IA**<br>
   _Project Leader Organic Chemistry Lab - Dr. Gholam Mirafzal_ (October 2012- May 2014)<br>
