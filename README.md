@@ -14,9 +14,9 @@ ________________________________________________________________________________
 
 ### EDUCATION
 
-  -  **Doctor of Philosophy | 2023 (Anticipated)**<br>
+  -  **Doctor of Philosophy | 2024 (Anticipated)**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
-  Epidemiology
+  Biostatistics
   
   -  **Masters of Science | May 2019** <br>
   University of Colorado Denver, Anschutz Medical Campus,<br>
