@@ -22,7 +22,7 @@ ________________________________________________________________________________
   University of Colorado Denver, Anschutz Medical Campus,<br>
   School of Public Health - Aurora, CO<br>
   Epidemiology <br>
-  _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://mountainscholar.org/handle/10968/3443)<br>
+  _Thesis Title_: [The Effect of Traumatic Brain Injury State Laws on Incident and Recurrent Concussion Rates](https://digitalcollections.cuanschutz.edu/work/ns/219bb0df-1386-447e-85e2-bbeceea4fc1b)<br>
   Cumulative GPA: 3.985/4.00
   
   -  **Bachelor of Science | May 2014**<br>
