@@ -97,7 +97,7 @@ ________________________________________________________________________________
   
 ### PUBLICATIONS
 
-  9.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
+  1.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
   8.  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
   7.  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
   6.  Chandran A, Kerr ZY, Roby PR, Nedimyer A, **Arakkal A**, et al. Concussion Symptom Characteristics and Resolution in 20 United States High School Sports, 2013/14-2017/18 Academic Years. Neurosurgery. 2020;87(3):573-583. doi:10.1093/neuros/nyaa091
