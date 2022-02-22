@@ -96,6 +96,7 @@ _Data Analyst - Dr. Eric Simoes_	(June 2018 - August 2018)<br>
 ____________________________________________________________________________________________________________
   
 ### PUBLICATIONS
+
   9.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
   8.  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
   7.  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
