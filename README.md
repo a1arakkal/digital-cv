@@ -97,8 +97,8 @@ ________________________________________________________________________________
   
 ### PUBLICATIONS
 
-  1.  Miller AC, Arakkal AT, Sewell DK, et al. Risk for Asymptomatic Household Transmission of Clostridioides difficile Infection Associated with Recently Hospitalized Family Members. Emerging Infectious Diseases. 2022;28(5):932-939. doi:10.3201/eid2805.212023.
-  1.  Miller AC, Arakkal AT, Koeneman SH, Cavanaugh JE, Thompson GR, Baddley JW, Polgreen PM. Frequency and Duration of, and Risk Factors for, Diagnostic Delays Associated with Histoplasmosis. Journal of Fungi. 2022; 8(5):438. https://doi.org/10.3390/jof8050438
+  1.  Miller AC, **Arakkal AT**, Sewell DK, et al. Risk for Asymptomatic Household Transmission of Clostridioides difficile Infection Associated with Recently Hospitalized Family Members. Emerging Infectious Diseases. 2022;28(5):932-939. doi:10.3201/eid2805.212023.
+  1.  Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Thompson GR, Baddley JW, Polgreen PM. Frequency and Duration of, and Risk Factors for, Diagnostic Delays Associated with Histoplasmosis. Journal of Fungi. 2022; 8(5):438. https://doi.org/10.3390/jof8050438
   1.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
   2.  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
   3.  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
