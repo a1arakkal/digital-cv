@@ -91,7 +91,7 @@ _Data Analyst - Dr. Eric Simoes_	(June 2018 - August 2018)<br>
 
   - **Drake University | Des Moines, IA**<br>
   _Project Leader Organic Chemistry Lab - Dr. Gholam Mirafzal_ (October 2012- May 2014)<br>
-  Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. Designed teaching lab-based experiments that were safe, fast, and reliable. Implemented the use of microwaves and activated charcoal to significantly reduce reaction time and increase perecent yeild for Diels-Alder reactions. 
+  Collaborated to design a Diels-Alder reaction that could be implemented into teaching labs. Designed teaching lab-based experiments that were safe, fast, and reliable. Implemented the use of microwaves and activated charcoal to significantly reduce reaction time and increase percent yield for Diels-Alder reactions. 
   
 ____________________________________________________________________________________________________________
   
