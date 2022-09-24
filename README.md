@@ -97,17 +97,18 @@ ________________________________________________________________________________
   
 ### PUBLICATIONS
 
-  1.  Miller AC, **Arakkal AT**, Sewell DK, et al. Risk for Asymptomatic Household Transmission of Clostridioides difficile Infection Associated with Recently Hospitalized Family Members. Emerging Infectious Diseases. 2022;28(5):932-939. doi:10.3201/eid2805.212023.
-  1.  Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Thompson GR, Baddley JW, Polgreen PM. Frequency and Duration of, and Risk Factors for, Diagnostic Delays Associated with Histoplasmosis. Journal of Fungi. 2022; 8(5):438. https://doi.org/10.3390/jof8050438
-  1.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
-  2.  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
-  3.  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
-  4.  Chandran A, Kerr ZY, Roby PR, Nedimyer A, **Arakkal A**, et al. Concussion Symptom Characteristics and Resolution in 20 United States High School Sports, 2013/14-2017/18 Academic Years. Neurosurgery. 2020;87(3):573-583. doi:10.1093/neuros/nyaa091
-  5.  Comstock RD, **Arakkal AT**, Pierpoint LA, Fields SK. Are high school girls’ lacrosse players at increased risk of concussion because they are not allowed to wear the same helmet boys’ lacrosse players are required to wear? Inj Epidemiol. 2020;7(1):18. doi:10.1186/s40621-020-00242-5
-  6.  **Arakkal AT**, Baron AE, Lamb MM, Fields SK, Comstock RD. Evaluating the effectiveness of traumatic brain injury state laws among high school athletes. Inj Epidemiol. 2020;7(1):12. doi:10.1186/s40621-020-00241-6
-  7.  Hammer E, Brooks MA, Hetzel S, **Arakkal A**, Comstock RD. Epidemiology of Injuries Sustained in Boys’ High School Contact and Collision Sports, 2008-2009 Through 2012-2013. Orthop J Sport Med. 2020;8(2):2325967120903699.
-  8.  Kerr ZY, Chandran A, Nedimyer AK, **Arakkal A**, Pierpoint LA, Zuckerman SL. Concussion incidence and trends in 20 high school sports. Pediatrics. 2019;144(5).
-  9.  Oliver GD, Saper MG, Drogosz M, Plummer H, **Arakkal A**, et al. Epidemiology of shoulder and elbow injuries among US high school softball players, 2005-2006 through 2016-2017. Orthop J Sport Med. 2019;7(9):2325967119867428.
+  1. Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Polgreen PM. A clinically-guided unsupervised clustering approach to recommend symptoms of disease associated with diagnostic opportunities. Diagnosis (Berl). 2022 Sep 21. doi:10.1515/dx-2022-0044.
+  2.  Miller AC, **Arakkal AT**, Sewell DK, et al. Risk for Asymptomatic Household Transmission of Clostridioides difficile Infection Associated with Recently Hospitalized Family Members. Emerging Infectious Diseases. 2022;28(5):932-939. doi:10.3201/eid2805.212023.
+  3.  Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Thompson GR, Baddley JW, Polgreen PM. Frequency and Duration of, and Risk Factors for, Diagnostic Delays Associated with Histoplasmosis. Journal of Fungi. 2022; 8(5):438. https://doi.org/10.3390/jof8050438
+  4.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. doi:10.1093/ofid/ofab400 
+  5.  Miller AC, **Arakkal AT**, Koeneman S, et al. Incidence, duration and risk factors associated with delayed and missed diagnostic opportunities related to tuberculosis: A population-based longitudinal study. BMJ Open. 2021;11(2). doi:10.1136/bmjopen-2020-045605 
+  6.  Kriz PK, Yang J, **Arakkal A**, Keeley T, Comstock RD. Fair Play as an Injury Prevention Intervention: Do Yellow Card Accumulation Policies Reduce High School Soccer Injuries? Clin J Sport Med. September 2020. doi:10.1097/JSM.0000000000000877
+  7.  Chandran A, Kerr ZY, Roby PR, Nedimyer A, **Arakkal A**, et al. Concussion Symptom Characteristics and Resolution in 20 United States High School Sports, 2013/14-2017/18 Academic Years. Neurosurgery. 2020;87(3):573-583. doi:10.1093/neuros/nyaa091
+  8.  Comstock RD, **Arakkal AT**, Pierpoint LA, Fields SK. Are high school girls’ lacrosse players at increased risk of concussion because they are not allowed to wear the same helmet boys’ lacrosse players are required to wear? Inj Epidemiol. 2020;7(1):18. doi:10.1186/s40621-020-00242-5
+  9.  **Arakkal AT**, Baron AE, Lamb MM, Fields SK, Comstock RD. Evaluating the effectiveness of traumatic brain injury state laws among high school athletes. Inj Epidemiol. 2020;7(1):12. doi:10.1186/s40621-020-00241-6
+  10.  Hammer E, Brooks MA, Hetzel S, **Arakkal A**, Comstock RD. Epidemiology of Injuries Sustained in Boys’ High School Contact and Collision Sports, 2008-2009 Through 2012-2013. Orthop J Sport Med. 2020;8(2):2325967120903699.
+  11.  Kerr ZY, Chandran A, Nedimyer AK, **Arakkal A**, Pierpoint LA, Zuckerman SL. Concussion incidence and trends in 20 high school sports. Pediatrics. 2019;144(5).
+  12.  Oliver GD, Saper MG, Drogosz M, Plummer H, **Arakkal A**, et al. Epidemiology of shoulder and elbow injuries among US high school softball players, 2005-2006 through 2016-2017. Orthop J Sport Med. 2019;7(9):2325967119867428.
 
 ____________________________________________________________________________________________________________
 
