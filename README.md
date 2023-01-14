@@ -17,11 +17,13 @@ ________________________________________________________________________________
   -  **Doctor of Philosophy | 2024 (Anticipated)**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
   Biostatistics
+  
   Current GPA: 4.19/4.00
   
   -  **Masters of Science | May 2023 (Anticipated)**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
   Biostatistics
+  
   Current GPA: 4.19/4.00
   
   -  **Masters of Science | May 2019** <br>
