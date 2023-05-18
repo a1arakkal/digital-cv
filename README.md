@@ -19,7 +19,7 @@ ________________________________________________________________________________
   Biostatistics<br>
   Current GPA: 4.19/4.00
   
-  -  **Masters of Science | May 2023 (Anticipated)**<br>
+  -  **Masters of Science | May 2023**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
   Biostatistics<br>
   Current GPA: 4.19/4.00
