@@ -103,6 +103,7 @@ ________________________________________________________________________________
   
 ### PUBLICATIONS
 
+  1.Arakkal, AT, Polgreen, LA, Chapman, CG, et al. Association between household opioid prescriptions and risk for overdose among family members not prescribed opioids. Pharmacotherapy. 2023; 00: 1-12.
   1. Miller AC, **Arakkal AT**, Sewell DK, et al. Comparison of different antibiotics and the risk for community-associated clostridioides difficile infection: a case-control study, Open Forum Infectious Diseases, 2023.
   2. Miller, A.C., Cavanaugh, J.E., **Arakkal, A.T.** et al. A comprehensive framework to estimate the frequency, duration, and risk factors for diagnostic delays using bootstrapping-based simulation methods. BMC Med Inform Decis Mak 23, 68 (2023)
   3. Evans NJ, **Arakkal AT**, Cavanaugh JE, Newland JG, Polgreen PM, Miller AC. The incidence, duration, risk factors, and age-based variation of missed opportunities to diagnose pertussis: A population-based cohort study. Infection Control & Hospital Epidemiology. 2023:1-8.
