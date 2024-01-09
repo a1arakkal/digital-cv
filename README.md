@@ -123,6 +123,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 ### HONORS AND AWARDS 
+  -  Leon F. Burmeister Memorial Scholarship in Biostatistics (2023)
   -  Jess Kraus Award in *Injury Epidemiology* - 2nd place paper (2020)
   -  Phi Beta Delta Honor Society (2020)
   -  Department of Epidemiology’s Scholarship in Infectious Diseases Epidemiology (2019)
