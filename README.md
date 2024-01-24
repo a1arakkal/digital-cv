@@ -133,8 +133,9 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 ### PROGRAMMING SKILLS
-  -  SAS ([Certified Base Programmer for SAS 9](https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804))
   -  R
+  -  SAS ([Certified Base Programmer for SAS 9](https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804))
+  -  Julia
   -  Python
   -  SPSS
   
