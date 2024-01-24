@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ### EDUCATION
 
-  -  **Doctor of Philosophy | 2024 (Anticipated)**<br>
+  -  **Doctor of Philosophy | 2025 (Anticipated)**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
   Biostatistics<br>
   Current GPA: 4.19/4.00
