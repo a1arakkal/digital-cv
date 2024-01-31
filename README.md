@@ -134,7 +134,7 @@ ________________________________________________________________________________
 
 ### PROGRAMMING SKILLS
   -  R
-  -  SAS ([Certified Base Programmer for SAS 9][(https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=146804](https://www.credly.com/users/alan-arakkal/badges?filter%5Buser_name%5D=Alan%20Arakkal&source=earner_directory)))
+  -  SAS ([Certified Base Programmer for SAS 9][(https://www.credly.com/users/alan-arakkal/badges?filter%5Buser_name%5D=Alan%20Arakkal&source=earner_directory)])
   -  Julia
   -  Python
   -  SPSS
