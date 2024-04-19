@@ -128,7 +128,7 @@ ________________________________________________________________________________
   -  Jess Kraus Award in *Injury Epidemiology* - 2nd place paper (2020)
   -  Phi Beta Delta Honor Society (2020)
   -  Department of Epidemiology’s Scholarship in Infectious Diseases Epidemiology (2019)
-  -  [Delta Omega National Honorary Society in Public Health](https://bcert.me/szabmqziz) - Student Memeber (2019)
+  -  [Delta Omega National Honorary Society in Public Health](https://bcert.me/szabmqziz) - Student Member (2019)
   -  Beta Beta Beta Biological Honors Society (2014)
 
 ____________________________________________________________________________________________________________
