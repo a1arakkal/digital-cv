@@ -22,7 +22,7 @@ ________________________________________________________________________________
   -  **Masters of Science | May 2023**<br>
   University of Iowa, College of Public Health - Iowa City, IA<br>
   Biostatistics<br>
-  Current GPA: 4.19/4.00
+  Cumulative GPA: 4.19/4.00
   
   -  **Masters of Science | May 2019** <br>
   University of Colorado Denver, Anschutz Medical Campus,<br>
