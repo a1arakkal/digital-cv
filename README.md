@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
   -  **University of Iowa | Iowa City, IA**<br>
   _Graduate Research Assistant - Dr. Aaron Miller_	(July 2019 - Present)<br>
-  Responsible for data management, data analysis, creating relational databases, and reports for Dr. Miller’s on-going diagnostic delay grant. Additional responsibilities include co-authoring peer-review publications, developing Shiny apps to disseminate study findings, and submitting abstracts for presentations at local/national/international scientific meetings. Experience with US medical and pharmacy claims databases (i.e., Market Scan and HCUP)
+  Responsible for data management, data analysis, creating relational databases, and reports for Dr. Miller’s on-going diagnostic delay grant. Additional responsibilities include co-authoring peer-review publications, developing Shiny apps to disseminate study findings, and submitting abstracts for presentations at local/national/international scientific meetings. Experience with US medical and pharmacy claims databases (i.e., Market Scan and HCUP). Utilized high performance computing systems to work with large databases.
   
   -  **University of Colorado Denver, Anschutz Medical Campus | Aurora, CO**<br>
   _Professional Research Assistant - Dr. Dawn Comstock_	(April 2018 - May 2019)<br>
