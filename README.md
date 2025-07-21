@@ -103,14 +103,16 @@ ________________________________________________________________________________
   
 ### PUBLICATIONS
 
+  1.  Miller AC, **Arakkal AT**, Cavanaugh JE, Polgreen PM, Streit JA. Incidence, Duration, and Risk Factors for Diagnostic Delays Associated with Dengue: A Population-Based Study. Am J Trop Med Hyg. 2025.
+  2.  **Arakkal AT**, Sewell DK. JANE: Just Another latent space NEtwork clustering algorithm. Computational Statistics \& Data Analysis. 2025; 211.
   1.  Struble RD, **Arakkal AT**, Cavanaugh JE, Polgreen PM, Miller AC. Evaluating potential missed opportunities to prevent, treat, or diagnose sepsis: A population-based retrospective study of insurance claims. Critical Care Explorations. 2025;7(4).
   2.  Miller AC, **Arakkal AT**, Sewell DK, et al. Hospitalizations among family members increase the risk of MRSA infection in a household. Infect Control Hosp Epidemiol. Published online August 7, 2024.
   3.  **Arakkal, Alan T.**, Cavanaugh, Joseph E., Polgreen, Philip M., Miller, Aaron C. The Increase in Household Transmission of Pertussis Associated With Diagnostic Delays. The Pediatric Infectious Disease Journal. 2024.
-  4. **Arakkal, AT**, Polgreen, LA, Chapman, CG, et al. Association between household opioid prescriptions and risk for overdose among family members not prescribed opioids. Pharmacotherapy. 2023; 00: 1-12.
-  5. Miller AC, **Arakkal AT**, Sewell DK, et al. Comparison of different antibiotics and the risk for community-associated clostridioides difficile infection: a case-control study, Open Forum Infectious Diseases, 2023.
-  6. Miller, A.C., Cavanaugh, J.E., **Arakkal, A.T.** et al. A comprehensive framework to estimate the frequency, duration, and risk factors for diagnostic delays using bootstrapping-based simulation methods. BMC Med Inform Decis Mak 23, 68 (2023)
-  7. Evans NJ, **Arakkal AT**, Cavanaugh JE, Newland JG, Polgreen PM, Miller AC. The incidence, duration, risk factors, and age-based variation of missed opportunities to diagnose pertussis: A population-based cohort study. Infection Control & Hospital Epidemiology. 2023:1-8.
-  8. Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Polgreen PM. A clinically-guided unsupervised clustering approach to recommend symptoms of disease associated with diagnostic opportunities. Diagnosis (Berl). 2022 Sep 21. 
+  4.  **Arakkal, AT**, Polgreen, LA, Chapman, CG, et al. Association between household opioid prescriptions and risk for overdose among family members not prescribed opioids. Pharmacotherapy. 2023; 00: 1-12.
+  5.  Miller AC, **Arakkal AT**, Sewell DK, et al. Comparison of different antibiotics and the risk for community-associated clostridioides difficile infection: a case-control study, Open Forum Infectious Diseases, 2023.
+  6.  Miller, A.C., Cavanaugh, J.E., **Arakkal, A.T.** et al. A comprehensive framework to estimate the frequency, duration, and risk factors for diagnostic delays using bootstrapping-based simulation methods. BMC Med Inform Decis Mak 23, 68 (2023)
+  7.  Evans NJ, **Arakkal AT**, Cavanaugh JE, Newland JG, Polgreen PM, Miller AC. The incidence, duration, risk factors, and age-based variation of missed opportunities to diagnose pertussis: A population-based cohort study. Infection Control & Hospital Epidemiology. 2023:1-8.
+  8.  Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Polgreen PM. A clinically-guided unsupervised clustering approach to recommend symptoms of disease associated with diagnostic opportunities. Diagnosis (Berl). 2022 Sep 21. 
   9.  Miller AC, **Arakkal AT**, Sewell DK, et al. Risk for Asymptomatic Household Transmission of Clostridioides difficile Infection Associated with Recently Hospitalized Family Members. Emerging Infectious Diseases. 2022;28(5):932-939. 
   10.  Miller AC, **Arakkal AT**, Koeneman SH, Cavanaugh JE, Thompson GR, Baddley JW, Polgreen PM. Frequency and Duration of, and Risk Factors for, Diagnostic Delays Associated with Histoplasmosis. Journal of Fungi. 2022; 8(5):438. 
   11.  Miller AC, Koeneman S, **Arakkal AT**, et al. Incidence, duration and risk factors associated with missed opportunities to diagnose herpes simplex encephalitis: A population-based longitudinal study. Open Forum Infectious Diseases. 2021. 
