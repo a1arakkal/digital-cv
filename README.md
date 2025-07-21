@@ -121,9 +121,9 @@ ________________________________________________________________________________
   14.  Chandran A, Kerr ZY, Roby PR, Nedimyer A, **Arakkal A**, et al. Concussion Symptom Characteristics and Resolution in 20 United States High School Sports, 2013/14-2017/18 Academic Years. Neurosurgery. 2020;87(3):573-583. 
   15.  Comstock RD, **Arakkal AT**, Pierpoint LA, Fields SK. Are high school girls’ lacrosse players at increased risk of concussion because they are not allowed to wear the same helmet boys’ lacrosse players are required to wear? Inj Epidemiol. 2020;7(1):18. 
   16.  **Arakkal AT**, Baron AE, Lamb MM, Fields SK, Comstock RD. Evaluating the effectiveness of traumatic brain injury state laws among high school athletes. Inj Epidemiol. 2020;7(1):12. 
-  17.  Hammer E, Brooks MA, Hetzel S, **Arakkal A**, Comstock RD. Epidemiology of Injuries Sustained in Boys’ High School Contact and Collision Sports, 2008-2009 Through 2012-2013. Orthop J Sport Med. 2020;8(2):2325967120903699.
+  17.  Hammer E, Brooks MA, Hetzel S, **Arakkal A**, Comstock RD. Epidemiology of Injuries Sustained in Boys’ High School Contact and Collision Sports, 2008-2009 Through 2012-2013. Orthop J Sport Med. 2020;8(2).
   18.  Kerr ZY, Chandran A, Nedimyer AK, **Arakkal A**, Pierpoint LA, Zuckerman SL. Concussion incidence and trends in 20 high school sports. Pediatrics. 2019;144(5).
-  19.  Oliver GD, Saper MG, Drogosz M, Plummer H, **Arakkal A**, et al. Epidemiology of shoulder and elbow injuries among US high school softball players, 2005-2006 through 2016-2017. Orthop J Sport Med. 2019;7(9):2325967119867428.
+  19.  Oliver GD, Saper MG, Drogosz M, Plummer H, **Arakkal A**, et al. Epidemiology of shoulder and elbow injuries among US high school softball players, 2005-2006 through 2016-2017. Orthop J Sport Med. 2019;7(9).
 
 ____________________________________________________________________________________________________________
 
