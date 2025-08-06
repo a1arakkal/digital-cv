@@ -128,6 +128,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 ### HONORS AND AWARDS 
+  -  William R. Clarke Graduate Assistant Research Award (2025)
   -  Leon F. Burmeister Memorial Scholarship in Biostatistics (2023)
   -  Jess Kraus Award in *Injury Epidemiology* - 2nd place paper (2020)
   -  Phi Beta Delta Honor Society (2020)
